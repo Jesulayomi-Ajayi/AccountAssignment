@@ -1,0 +1,16 @@
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\bin\Debug\net5.0\AccountAssignment.exe
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\bin\Debug\net5.0\AccountAssignment.deps.json
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\bin\Debug\net5.0\AccountAssignment.runtimeconfig.json
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\bin\Debug\net5.0\AccountAssignment.runtimeconfig.dev.json
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\bin\Debug\net5.0\AccountAssignment.dll
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\bin\Debug\net5.0\ref\AccountAssignment.dll
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\bin\Debug\net5.0\AccountAssignment.pdb
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\obj\Debug\net5.0\AccountAssignment.csprojAssemblyReference.cache
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\obj\Debug\net5.0\AccountAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\obj\Debug\net5.0\AccountAssignment.AssemblyInfoInputs.cache
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\obj\Debug\net5.0\AccountAssignment.AssemblyInfo.cs
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\obj\Debug\net5.0\AccountAssignment.csproj.CoreCompileInputs.cache
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\obj\Debug\net5.0\AccountAssignment.dll
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\obj\Debug\net5.0\ref\AccountAssignment.dll
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\obj\Debug\net5.0\AccountAssignment.pdb
+C:\Users\JESULAYO\Documents\EEG 324\AccountAssignment\obj\Debug\net5.0\AccountAssignment.genruntimeconfig.cache
